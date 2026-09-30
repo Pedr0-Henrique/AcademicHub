@@ -151,7 +151,7 @@ academic-hub/
 1. Clone o repositório:
 ```bash
 git clone <repository-url>
-cd cadastro_alunos_e_cursos
+cd AcademicHub
 ```
 
 2. Configure as variáveis de ambiente:
