@@ -500,40 +500,6 @@ frontend/
 - [x] Dark mode
 - [x] Testes automatizados de autenticação e autorização
 
-### Pendente ⏳
-- [ ] CI/CD com GitHub Actions
-- [ ] Otimizações de performance
-- [ ] Documentação da API (Swagger)
-- [ ] Deploy em produção
-
-## 📝 Git Workflow
-
-### Branches
-
-- `main` - Branch principal (produção)
-- `develop` - Branch de desenvolvimento
-- `feature/*` - Branches de funcionalidades
-- `fix/*` - Branches de correções
-- `refactor/*` - Branches de refatoração
-
-### Commit Convention
-
-```
-feat: adicionar gestão de alunos
-feat: implementar dashboard
-fix: corrigir erro de validação
-refactor: melhorar performance da API
-test: adicionar testes de autenticação
-docs: atualizar documentação
-```
-
-## 🤝 Contribuindo
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
-3. Commit suas mudanças (`git commit -m 'feat: add nova funcionalidade'`)
-4. Push para a branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um Pull Request
 
 ## 📄 Licença
 
