@@ -1,0 +1,49 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backend (Laravel)
+/backend/vendor/
+/backend/node_modules/
+/backend/.env
+/backend/storage/*.key
+/backend/storage/logs/
+/backend/storage/framework/cache/data/*
+/backend/storage/framework/sessions/*
+/backend/storage/framework/views/*
+/backend/bootstrap/cache/*.php
+/backend/horizon/
+/backend/nova/
+/backend/public/build/
+/backend/public/hot
+/backend/public/storage
+
+# Frontend (React)
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.*.local
+/frontend/.turbo/
+
+# Docker
+/docker/mysql_data/
